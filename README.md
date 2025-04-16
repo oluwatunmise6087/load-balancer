@@ -16,9 +16,12 @@ cd load_balancer_lab
 
 ## Verify Load Balancing
  vagrant ssh web1
- ![networking4](networking4.PNG)
+ ![web1](web1.PNG)
+ ![web-server1](web-server1.PNG)
 
 vagrant ssh web2
 ![web2](web2.PNG)
+![web-server2](web-server2.PNG)
 vagrant ssh web3
 ![web3](web3.PNG)
+![web-server3](web-server3.PNG)
